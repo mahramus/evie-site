@@ -1,2 +1,3 @@
-# mahramus.github.io
-Lesson 2.1 class activity
+# Ode to My Family
+
+## I wanted to use some quickly-learned intro skills to make a live site that would impress my wife. This did the trick. 
