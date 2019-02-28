@@ -59,6 +59,11 @@ header {
     border: 0px;
 }
 
+.responsive-image {
+  height: auto;
+  width: 100%;
+}
+
 footer {
     text-align: center;
 }
